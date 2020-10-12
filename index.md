@@ -4,6 +4,6 @@ RedPCat is a 13 year old teen that loves games, cats and coding. He has a [Twitc
 
 ## Pages
 
-[Home](https://redcatphoenix2.github.io/home) [Sites](https://redcatphoenix2.github.io/404) About
+[Home](https://home.redpcat-official.ga) [Sites](https://redcatphoenix2.github.io/404) About
 
-# Site by Cat OS© 2018-2020
+# Site by RedPCat Media Team© 2018-2020
